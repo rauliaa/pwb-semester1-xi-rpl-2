@@ -11,7 +11,11 @@ Macam - macam Tag pada HTML :
 <head></head> Pada bagian ini berisi informasi meta tentang dokumen, seperti judul halaman,dan lainnya.
 <title></title> Tag ini digunakan untuk menentukan judul halaman yang akan ditampilkan di bilah judul atau tab web.
 <body></body> Pada bagian body berisi konten utama dari halaman web, seperti teks, gambar, tautan, dan lainnya.
-<h1>, <h2>, <h3>, <h4>, <h5>, <h6> Tag-tag ini digunakan untuk menandai judul dan subjudul dengan tingkatan yang berbeda.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6> Tag-tag ini digunakan untuk menandai judul dan subjudul dengan tingkatan yang berbeda. Semakin tinggi nomor tag, semakin tinggi tingkat hierkaki judulnya.
+<p></p> Tag ini digunakan untuk menandai paragraf teks.
+<a></a> Tag ini digunakan untuk membuat tautan. Atribut 'href' digunakan untuk menentukan URL tautan.
+<img> Tag ini digunakan untuk menyisipkan gambar di halaman web. Atribut 'src' digunakan untuk menentukan lokasi gambar.
+
 
 
 
