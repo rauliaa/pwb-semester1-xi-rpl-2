@@ -19,15 +19,15 @@ Macam - macam Tag pada HTML :
 <ul> Merupakan singkatan dari "unordered list" yaitu daftar yang tidak memiliki urutan tertentu, digunakan untuk membuat daftar tak berurutan di halaman web.
 <ol> Merupakan singkatan dari "ordered list" yaitu daftar yang memiliki urutan tertentu, digunakan untuk membuat daftar berurutan di halaman web. 
 <li> Merupakan singkatan dari "list item" digunakan untuk menandai setiap elemen item dalam daftar (baik itu daftar berurutan maupun tak berurutan).
-<span> Tag ini digunakan untuk mengelompokkan tulisan dalam satu baris.
 <table> Digunakan untuk membuat tabel di halaman web.
-<tr> Digunakan untuk mendefinisikan baris pada tabel.
-<th> Digunakan untuk mendefinisikan sel header yang biasanya berisi judul atau label untuk setiap kolom.
-<td> Digunakan untuk mendefinisikan sel data yang berisi informasi sesungguhnya.
+<tr> Singkatan dari table row, digunakan untuk mendefinisikan baris pada tabel.
+<th> Singkatan dari table header, digunakan untuk mendefinisikan sel header yang biasanya berisi judul atau label untuk setiap kolom.
+<td> Singkatan dari table data, digunakan untuk mendefinisikan sel data yang berisi informasi sesungguhnya.
 <form> Digunakan untuk membuat sebuah formulir (form) di halaman web.
 <input> Tag ini digunakan untuk menginput teks.
 <button> Tombol ini bisa digunakan untuk memberikan interaktivitas kepada pengguna, seperti mengirimkan formulir, mengaktifkan fungsi JavaScript, atau melakukan tindakan lainnya ketika tombol ditekan.
-
-
-
+<b> atau <strong> Digunakan untuk membuat huruf menjadi tebal.
+<i> Tag ini digunakan untuk membuat huruf bercetak miring.
+<video> Tag ini digunakan untuk menambahkan video pada halaman web yang kita buat.
+<audio> Tag ini digunakan untuk menampilkan suara pada halaman website.
 ```
