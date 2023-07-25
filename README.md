@@ -27,6 +27,7 @@ Macam - macam Tag pada HTML :
 <td></td> Singkatan dari table data, digunakan untuk mendefinisikan sel data yang berisi informasi sesungguhnya.
 <form></form> Digunakan untuk membuat sebuah formulir (form) di halaman web.
 <input> Tag ini digunakan untuk menginput teks.
+<output> Digunakan untuk menghasilkan hasil inputan.
 <textarea></textarea> Digunakan untuk membuat area input text yang lebih besar dalam formulilr.
 <button> Tombol ini bisa digunakan untuk memberikan interaktivitas kepada pengguna, seperti mengirimkan formulir, mengaktifkan fungsi JavaScript, atau melakukan tindakan lainnya ketika tombol ditekan.
 <select></select> Digunakan untuk membuat elemen drop-down (pilihan tunggal) dalam formulir.
